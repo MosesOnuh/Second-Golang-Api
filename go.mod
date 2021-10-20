@@ -1,4 +1,4 @@
-module Second-Golang-Api
+module github.com/MosesOnuh/todoTask-Api
 
 go 1.17
 
